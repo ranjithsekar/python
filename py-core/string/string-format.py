@@ -21,7 +21,11 @@ print(animal2)
 animal2 = "Tiger"
 print(animal2)
 
-greetName = "Bal"
-greeting = "How are you: {}?"
-greetingVal = greeting.format(greetName)
-print(greetingVal)
+firstname = "Ranjith"
+lastname = "Sekar"
+greeting = "How are you: {}, {}?"
+print(greeting.format(lastname, firstname))
+greeting = "What are you doing? : {1}, {0}?"
+
+print(greeting.format(firstname, lastname))
+

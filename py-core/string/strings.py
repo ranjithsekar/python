@@ -27,5 +27,5 @@ print('Triple single quote: ' + message)
 # string concat
 firstname = "Ranjith"
 lastname = "Sekar"
-name = firstname + " " + lastname
+name = firstname + lastname
 print(name)

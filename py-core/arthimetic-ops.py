@@ -1,21 +1,21 @@
-import  math
+import math
 
-print(10/3)
-print(10//3)
-print(10%3)
-print(10*3)
-print(10**3)
-print(10^3)
+print(10 / 3)
+print(10 // 3)
+print(10 % 3)
+print(10 * 3)
+print(10 ** 3)
+print(10 ^ 3)
 
 x = 10
 x = x + 4
 print(x)
 
 print('===augmented assignment operators')
-y =5
-y +=4
+y = 5
+y += 4
 print(y)
-y *=4
+y *= 4
 print(y)
 
 print(round(4.3))

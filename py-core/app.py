@@ -1,2 +1,2 @@
-print("Ranjith Sekar");
-print("Ranjith"*2);
+print("Ranjith Sekar")
+print("Ranjith" * 2)
